@@ -25,5 +25,10 @@
 - **Issue Type:** Syntax Error.
 - **Problem:** The if statement is missing a colon.
 
+## Bug 6 — bug6.c
+- **Intended Behavior:** Calculate the sum of all elements in an integer array.
+- **Issue Type:** Off-by-One Error.
+- **Problem:** The loop accesses an array element outside its valid range.
+
 ## Summary
 The five snippets cover runtime, off-by-one, logical, data type, and syntax errors.
