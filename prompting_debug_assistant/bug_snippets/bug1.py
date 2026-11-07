@@ -5,4 +5,4 @@ def calculate_average(numbers):
 
 scores = [80, 90, 75, 85]
 
-print("Average score:", calculate_average(scores))
+print("Average score:", calculate_average(scores)) 
