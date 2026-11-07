@@ -1,8 +1,19 @@
 def calculate_average(numbers):
     total = sum(numbers)
-    average = total / len(numbers)
+    count = len(numbers)
+    average = total / count
     return average
+
+
+def display_average(numbers):
+    result = calculate_average(numbers)
+    print("Average score:", result)
+
 
 scores = [80, 90, 75, 85]
 
-print("Average score:", calculate_average(scores)) 
+display_average(scores)
+
+empty_scores = []
+
+display_average(empty_scores)
