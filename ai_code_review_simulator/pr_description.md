@@ -1,12 +1,16 @@
-# Pull Request: Add a New Feature to the Project
+# Pull Request: Add Input Validation Feature
 
 ## Summary
-This PR introduces a new feature to improve the existing functionality and make the project more practical and user-friendly.
+This PR adds input validation to prevent invalid or incomplete data from being processed. It provides clear error messages and makes the application more reliable.
 
 ## Changes
-- Implemented the new feature.
-- Improved the related functionality.
-- Added tests to cover the new behavior.
+- Added validation checks for user input.
+- Handled empty and invalid values.
+- Added clear error messages for validation failures.
+- Added unit tests for valid and invalid inputs.
 
 ## Context
-The goal of this change is to address a gap in the current implementation and make the application more reliable and easier to use.
+The goal is to catch incorrect input early and avoid unexpected errors. This feature improves the reliability of the application and makes it easier to use and maintain.
+
+## Implementation
+The feature is implemented in approximately 100–200 lines of code.
