@@ -1,29 +1,38 @@
-# Product Idea: SmartCareer AI
+# Product Idea: LifeLoop AI
 
-## 1. Vision Statement
+## Vision
 
-SmartCareer AI is an AI-powered career development platform designed to help job seekers simplify and improve their job application process. The platform aims to make career opportunities more accessible by providing personalized career guidance, intelligent CV analysis, job recommendations, and interview preparation tools.
+LifeLoop AI is an intelligent personal life management platform designed to help people manage the countless small but important responsibilities of everyday life.
 
-Its main goal is to reduce the time and effort required to find suitable job opportunities while helping users present their skills and experience more effectively.
+People constantly receive important information through emails, messaging applications, documents, screenshots, receipts, and voice messages. However, these details often become scattered, forgotten, or lost among hundreds of other notifications.
 
-## 2. Primary Users and Their Needs
+LifeLoop AI aims to solve this problem by transforming scattered personal information into organized, actionable tasks. Instead of manually creating reminders and tracking deadlines, users can simply upload a screenshot, document, message, or voice note. The AI extracts important information, identifies deadlines, recognizes required actions, and helps users stay on top of their responsibilities.
 
-- **Students and Recent Graduates:** Need guidance on building professional CVs, identifying suitable career paths, and finding entry-level opportunities.
-- **Job Seekers:** Want to discover relevant job opportunities, improve their applications, and increase their chances of getting hired.
-- **Career Changers:** Need help identifying transferable skills, understanding skill gaps, and exploring new professional directions.
-- **Recruiters:** Want to review candidate profiles and identify applicants whose skills match job requirements.
+The vision is to create a personal system that not only remembers information but also helps people follow through on what matters.
 
-## 3. Key Features and Differentiators
+## Users
 
-- **AI-Powered CV Analysis:** Analyzes uploaded CVs and provides actionable feedback on structure, content, skills, and areas for improvement.
-- **Smart Job Matching:** Recommends relevant job opportunities based on users' skills, experience, and career preferences.
-- **AI Cover Letter Generator:** Creates personalized cover letters tailored to specific job descriptions.
-- **Mock Interview Assistant:** Simulates job interviews, generates relevant questions, and provides feedback on user responses.
-- **Skill Gap Analysis:** Identifies missing skills for target positions and suggests areas for improvement.
-- **Application Tracking:** Allows users to organize and monitor their job applications and interview progress.
+- **Students:** Need to manage assignment deadlines, examination dates, application requirements, scholarship opportunities, and university documents without missing important details.
+- **Working Professionals:** Want to organize meetings, work commitments, appointments, subscriptions, and administrative responsibilities across different platforms.
+- **Families and Households:** Need a shared space to coordinate bills, shopping receipts, warranties, household responsibilities, appointments, and important family dates.
+- **Freelancers and Small Business Owners:** Need to track client commitments, invoices, payment deadlines, contracts, and follow-up activities.
+- **Everyday Individuals:** Want to reduce mental overload, remember important personal commitments, and avoid missing deadlines or forgetting small but valuable details.
 
-## 4. Key Differentiators
+## Key Features
 
-Unlike traditional job platforms that primarily list vacancies, SmartCareer AI combines career guidance, application assistance, and interview preparation in one integrated platform.
+- **Smart Information Capture:** Allows users to upload screenshots, PDFs, images, text messages, emails, and voice notes. AI extracts meaningful information without requiring users to enter everything manually.
+- **Automatic Deadline Detection:** Identifies important dates, expiration periods, payment deadlines, return windows, appointments, and renewal dates from uploaded information.
+- **Action Extraction:** Converts unstructured information into clear tasks with suggested next steps, priorities, and deadlines.
+- **Personal Life Dashboard:** Organizes tasks, upcoming events, pending responsibilities, and important documents in one personalized dashboard.
+- **Smart Follow-Up Tracking:** Remembers unanswered messages, pending requests, promised actions, and activities that require follow-up.
+- **Shared Responsibility Management:** Allows family members or trusted collaborators to share tasks, assign responsibilities, and track completion.
+- **Context-Aware AI Assistant:** Answers questions about saved information, such as "When does my subscription renew?" or "What documents do I still need to submit?"
+- **Proactive Notifications:** Sends timely reminders before important deadlines, renewals, appointments, and other time-sensitive events.
 
-Its AI-powered personalization helps users make better career decisions and improve their job application strategies.
+## Key Differentiators
+
+Unlike traditional calendar and reminder applications, LifeLoop AI does not require users to manually organize every piece of information.
+
+Its main differentiator is the ability to transform everyday information from different sources into actionable responsibilities automatically.
+
+Rather than functioning as another chatbot or task manager, LifeLoop AI acts as a personal information-to-action system that helps people remember, organize, and complete the important things in their lives.
